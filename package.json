@@ -1,0 +1,33 @@
+{
+  "name": "tsd-extra-cli",
+  "version": "0.1.0",
+  "description": "Wrapper around TSD (TypeScript type definition checker) with extra CLI options.",
+  "license": "MIT",
+  "keywords": [
+    "typescript",
+    "tsd",
+    "typings",
+    "types",
+    "cli"
+  ],
+  "author": {
+    "name": "Moxio",
+    "email": "info@moxio.com",
+    "url": "https://www.moxio.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Moxio/tsd-extra-cli.git"
+  },
+  "main": "bin/index.js",
+  "bin": {
+    "tsd-extra-cli": "./bin/index.js"
+  },
+  "engines": {
+    "node": ">=10"
+  },
+  "dependencies": {
+    "tsd": "^0.13.1"
+  },
+  "devDependencies": {}
+}
