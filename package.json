@@ -27,7 +27,8 @@
     "node": ">=10"
   },
   "dependencies": {
-    "tsd": "^0.13.1"
+    "tsd": "^0.13.1",
+    "yargs": "^16.0.3"
   },
   "devDependencies": {}
 }
