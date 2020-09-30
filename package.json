@@ -15,10 +15,7 @@
     "email": "info@moxio.com",
     "url": "https://www.moxio.com"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Moxio/tsd-extra-cli.git"
-  },
+  "repository": "Moxio/tsd-extra-cli",
   "main": "bin/index.js",
   "bin": {
     "tsd-extra-cli": "./bin/index.js"
