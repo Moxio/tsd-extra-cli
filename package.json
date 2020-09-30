@@ -28,6 +28,7 @@
   },
   "dependencies": {
     "tsd": "^0.13.1",
+    "xmlbuilder2": "^2.4.0",
     "yargs": "^16.0.3"
   },
   "devDependencies": {}
