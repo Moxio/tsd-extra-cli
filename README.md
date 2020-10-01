@@ -1,4 +1,5 @@
 [![NPM version](https://img.shields.io/npm/v/tsd-extra-cli.svg)](https://www.npmjs.com/package/tsd-extra-cli)
+[![Buy us a tree](https://img.shields.io/badge/Treeware-%F0%9F%8C%B3-lightgreen)](https://plant.treeware.earth/Moxio/tsd-extra-cli)
 
 tsd-extra-cli
 =============
@@ -52,6 +53,13 @@ Contributions to this project are more than welcome.
 License
 -------
 This project is released under the MIT license.
+
+Treeware
+--------
+This package is [Treeware](https://treeware.earth/). If you use it in production,
+then we'd appreciate it if you [**buy the world a tree**](https://plant.treeware.earth/Moxio/tsd-extra-cli)
+to thank us for our work. By contributing to the Treeware forest you'll be creating
+employment for local families and restoring wildlife habitats.
 
 ---
 Made with love, coffee and fun by the [Moxio](https://www.moxio.com) team from
