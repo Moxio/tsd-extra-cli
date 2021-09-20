@@ -32,7 +32,7 @@ tsd-extra-cli [path]
 
 In addition, `tsd-extra-cli` offers the following CLI options:
 
-* `--tests-only`: Only reports errors that come from the `.test-d.ts` files.
+* `--tests-only`: Only reports errors that come from the `.test-d.ts(x)` files.
   In addition to those, tsd normally also reports TypeScript errors in the
   files loaded from the system under test. The `--tests-only` option discards
   those. This can be useful in codebases where there are some known TypeScript
