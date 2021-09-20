@@ -18,7 +18,7 @@ const argv = yargs
 const projectPath = argv._[0] || process.cwd();
 
 function isTestFile(file) {
-    return file.endsWith('.test-d.ts');
+    return file.endsWith('.test-d.ts') || file.endsWith('.test-d.tsx');
 }
 
 (async () => {
