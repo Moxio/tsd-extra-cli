@@ -1,6 +1,6 @@
 {
   "name": "tsd-extra-cli",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Wrapper around tsd (TypeScript type definition checker) with extra CLI options.",
   "license": "MIT",
   "keywords": [
