@@ -24,7 +24,7 @@
     "node": ">=10"
   },
   "dependencies": {
-    "tsd": "^0.13.1",
+    "tsd": "^0.21.0",
     "xmlbuilder2": "^2.4.0",
     "yargs": "^16.0.3"
   },
